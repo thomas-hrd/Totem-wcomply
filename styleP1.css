@@ -25,8 +25,16 @@ h1 {
 a {
     margin-left: 25px;
     text-decoration: none;
-    border: solid 3px #4db6e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 4px #4db6e8;
     border-radius: 50%;
     padding: 10px;
     color: #4db6e8;
+}
+
+.button {
+    width: 36px;
+    height: 36px;
 }
