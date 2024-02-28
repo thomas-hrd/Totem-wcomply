@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto, sans-serif;
+    background-color: black;
+}
+
+#titre {
+    margin-left: 20px;
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    color: #4db6e8;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+a {
+    margin-left: 25px;
+    text-decoration: none;
+    border: solid 3px #4db6e8;
+    border-radius: 50%;
+    padding: 10px;
+    color: #4db6e8;
+}
