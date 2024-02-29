@@ -7,7 +7,7 @@
 
 #logo {
     margin-left: 20px;
-    width: 60%;
+    width: 56%;
     margin-bottom: 25px;
     display: flex;
     justify-content: center;
@@ -45,4 +45,11 @@ a {
     margin-top: 150px;
     width: 100%;
     height: auto;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 25px;
 }
