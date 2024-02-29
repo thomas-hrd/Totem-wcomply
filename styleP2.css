@@ -41,15 +41,20 @@ a {
     height: 36px;
 }
 
-#image-soc {
-    margin-top: 150px;
-    width: 100%;
-    height: auto;
-}
+/* #video {
+
+} */
 
 h2 {
     color: white;
     text-align: center;
     font-size: 40px;
+    margin-top: 50px;
     margin-bottom: 25px;
+}
+
+#image-soc {
+    margin-top: 150px;
+    width: 100%;
+    height: auto;
 }

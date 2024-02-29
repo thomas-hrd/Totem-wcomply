@@ -130,6 +130,11 @@
     color: #ffff;
 }
 
+.QRcode {
+    width: 150px;
+    margin-top: 20px;
+}
+
 i {
     color: #4db6e8;
 }
