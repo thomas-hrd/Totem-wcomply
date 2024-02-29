@@ -8,6 +8,7 @@
 #logo {
     margin-left: 20px;
     width: 60%;
+    margin-bottom: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
