@@ -130,6 +130,12 @@
     color: #ffff;
 }
 
+.reseaux-qrcode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .QRcode {
     width: 150px;
     margin-top: 20px;
