@@ -5,23 +5,16 @@
     background-color: black;
 }
 
-h1 {
-    text-align: center;
-    color: #4db6e8;
-    font-size: 40px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
 #logo {
     display: flex;
     justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 #logo-wcomply {
     width: 300px;
     height: auto;
-    margin-bottom: 25px;
 }
 
 #video {
@@ -37,8 +30,8 @@ h1 {
     margin-top: 25px;
     color: #4db6e8;
     font-size: 25px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
 
 .button {

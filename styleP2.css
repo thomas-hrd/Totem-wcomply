@@ -14,10 +14,10 @@
     justify-content: space-between;
 }
 
-img {
+#image-logo {
     text-align: center;
     color: #4db6e8;
-    width: 350px;
+    width: 230px;
     height: auto;
     margin-top: 25px;
     margin-bottom: 25px;
@@ -38,4 +38,10 @@ a {
 .button {
     width: 36px;
     height: 36px;
+}
+
+#image-soc {
+    margin-top: 150px;
+    width: 100%;
+    height: auto;
 }
